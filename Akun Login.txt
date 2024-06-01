@@ -1,0 +1,10 @@
+Admin
+--------------------
+Username : Admin
+Password : adminsky
+
+--------------------
+Peserta
+--------------------
+Username : abjad (A, B, ...)
+Password : ssbskr76
